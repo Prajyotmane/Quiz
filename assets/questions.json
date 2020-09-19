@@ -1,0 +1,40 @@
+[
+  {
+    "0": "Far-right protestors tried to storm the Parliament building in which country?",
+    "1": "Why did Shinzo Abe, prime minister of Japan, resign from office?",
+    "2": "What did two commercial jet pilots reported seeing in the busy airspace near Los Angeles\nInternational Airport?",
+    "3": "After more than seven decades of absence, jaguars are being reintroduced into the wetlands of which country?"
+  },
+  {
+    "0": {
+      "a": "Australia",
+      "b": "Britain",
+      "c": "France",
+      "d": "Germany"
+    },
+    "1": {
+      "a": "An extramarital affair",
+      "b": "Fraud",
+      "c": "Illness",
+      "d": "Protests"
+    },
+    "2": {
+      "a": "An attack drone",
+      "b": "A man with a jetpack",
+      "c": "A girl attached to a kite",
+      "d": "A U.F.O"
+    },
+    "3": {
+      "a": "Argentina",
+      "b": "Belize",
+      "c": "Colombia",
+      "d": "Mexico"
+    }
+  },
+  {
+    "0": "Germany",
+    "1": "Illness",
+    "2": "A man with a jetpack",
+    "3": "Argentina"
+  }
+]
