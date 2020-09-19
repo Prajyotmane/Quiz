@@ -40,16 +40,6 @@ class _MyAppState extends State<MyApp> {
   String _firstName, _lastName, _nickName;
   int _age;
 
-// void initState() {
-//   super.initState();
-//   _getDetails().then((value) {
-//     if(value==true){
-//       print(value);
-//       Navigator.push(context, MaterialPageRoute(builder: (context)=> UserInfo()));
-//     }
-//   }
-//   );
-//   }
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
