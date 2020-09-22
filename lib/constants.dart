@@ -1,0 +1,33 @@
+//This file contains all the message strings which were used to display as label or message in widgets
+
+final quiz = "Quiz";
+final userInfoLabel = "User Information";
+final exitMessage = "Do you want to exit the quiz?";
+final optionYes = "Yes";
+final optionNo = "No";
+final startQuizLabel = "Start Quiz";
+final loadingMessage = "Loading";
+final next = "Next";
+final end = "End";
+final optionA = "a";
+final optionB = "b";
+final optionC = "c";
+final optionD = "d";
+final firstNameKey = "First_name";
+final lastNameKey = "Last_name";
+final nickNameKey = "Nickname";
+final ageKey = "Age";
+final infoSavedFlag = "info_saved";
+final scoreLabelText = "Your score was";
+final firstNameLabel = "Enter First (given) name";
+final lastNameLabel = "Enter your Family (last) name";
+final nickNameLabel = "Enter your Nickname";
+final ageLabel = "Enter your Age";
+final firstNameErrorText = "Please enter first name";
+final lastNameErrorText = "Please enter last name";
+final nickNameErrorText = "Please enter Nickname";
+final ageErrorText = "Please enter your age";
+final acknowledgeSaveDetails = "Details have been saved!";
+final saveLabel = "Save";
+final noDataEnteredErrorText = "Please enter your details.";
+final invalidAgeError = "Invalid age";
